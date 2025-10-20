@@ -1,3 +1,49 @@
+
+
+🔴Durante meus estudos e práticas, aprofundei meus conhecimentos em bancos de dados relacionais (SQL) e não relacionais (NoSQL), entendendo suas diferenças, estruturas e comandos essenciais.
+
+1️⃣ Bancos de Dados Relacionais (SQL)
+
+Os bancos relacionais armazenam dados em tabelas estruturadas, com colunas e linhas, garantindo integridade e consistência. Trabalhei com:
+
+✅ DDL (Data Definition Language – definição de estrutura):
+
+✅ CREATE TABLE – criar tabelas.
+
+✅ ALTER TABLE – alterar estrutura da tabela (adicionar/remover colunas, alterar tipo de dados)
+
+✅ DROP TABLE – excluir tabelas.
+
+✅ Definição de chaves primárias (PRIMARY KEY) e chaves estrangeiras (FOREIGN KEY)
+
+✅ Criação de índices (CREATE INDEX) para otimização de consultas.
+
+✅ DML (Data Manipulation Language – manipulação de dados):
+
+✅ INSERT INTO – inserir registros.
+
+✅ UPDATE – atualizar dados existentes.
+
+✅ DELETE – remover registros.
+
+✅SELECT – consultas, com filtros (WHERE), ordenação (ORDER BY), limites (LIMIT) e agregações (GROUP BY, HAVING).
+
+✅ Relacionamentos e joins:
+
+INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN para combinar dados entre tabelas.
+
+✅ Garantia de integridade referencial e consistência de dados
+
+ORM (Object-Relational Mapping).
+
+✅Mapear objetos de programação para tabelas do banco, facilitando operações sem escrever SQL diretamente.
+
+ ✅ E Hibernate (Java).🚀
+
+
+
+
+
 # 📊 Banco de Dados "Viagens"
 
 Este repositório contém o **banco de dados da aplicação de viagens** criado no **phpMyAdmin**, com tabelas organizadas e padronizadas para facilitar consultas, importação e manutenção.
