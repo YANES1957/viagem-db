@@ -1,6 +1,6 @@
 
 
-🔴Durante meus estudos e práticas, aprofundei meus conhecimentos em bancos de dados relacionais (SQL) e não relacionais (NoSQL), entendendo suas diferenças, estruturas e comandos essenciais.
+🔴 Durante meus estudos e práticas, aprofundei meus conhecimentos em bancos de dados relacionais (SQL, My SQL) e não relacionais (NoSQL), entendendo suas diferenças, estruturas e comandos essenciais.
 
 1️⃣ Bancos de Dados Relacionais (SQL)
 
@@ -30,11 +30,11 @@ Os bancos relacionais armazenam dados em tabelas estruturadas, com colunas e lin
 
 ✅ Relacionamentos e joins:
 
-INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN para combinar dados entre tabelas.
+✅ INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN para combinar dados entre tabelas.
 
-✅ Garantia de integridade referencial e consistência de dados
+✅ Garantia de integridade referencial e consistência de dados.
 
-ORM (Object-Relational Mapping).
+✅ ORM (Object-Relational Mapping) ORM (Object-Relational Mapping).
 
 ✅Mapear objetos de programação para tabelas do banco, facilitando operações sem escrever SQL diretamente.
 
@@ -46,13 +46,13 @@ ORM (Object-Relational Mapping).
 
 # 📊 Banco de Dados "Viagens"
 
-Este repositório contém o **banco de dados da aplicação de viagens** criado no **phpMyAdmin**, com tabelas organizadas e padronizadas para facilitar consultas, importação e manutenção.
+Este repositório contém o banco de dados da aplicação de viagens criado no "phpMyAdmin", com tabelas organizadas e padronizadas para facilitar consultas, importação e manutenção.
 
 ---
 
 🟢 Estrutura do Banco
 
-O banco possui **3 tabelas principais**:
+O banco possui 3 tabelas principais:
 
 ### 1️⃣ Tabela `usuarios`
 Armazena informações sobre os usuários que podem fazer reservas.
@@ -106,7 +106,7 @@ Cada tabela está organizada para manter **consistência entre IDs**, evitando r
 
 📌 Observações
 
-- Tabelas padronizadas com **5 registros cada** para fácil manutenção.  
+- Tabelas padronizadas com  5 registros cada para fácil manutenção.  
 - Reservas possuem status para indicar **pendente, confirmada ou cancelada.  
 - Arquivo SQL exportado do phpMyAdmin: `viagens.sql`.  
 - Pode ser importado em qualquer phpMyAdmin ou MySQL local/online.  
